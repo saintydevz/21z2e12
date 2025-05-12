@@ -1,0 +1,1 @@
+print("Trigon pc released")

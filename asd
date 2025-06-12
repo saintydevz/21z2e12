@@ -1,1 +1,0 @@
-print("Trigon pc released")
